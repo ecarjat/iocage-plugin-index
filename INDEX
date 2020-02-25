@@ -1,0 +1,11 @@
+{
+  "influxdb": {
+    "MANIFEST": "influxdb.json",
+    "description": "Influxdb in a Jail",
+    "icon": "",
+    "name": "InfluxDB",
+    "official": false,
+    "primary_pkg": "influxdb"
+  }
+}
+
