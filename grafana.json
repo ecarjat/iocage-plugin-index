@@ -9,7 +9,7 @@
         "curl"
     ],
     "properties": {
-        "dhcp": 1
+        "dhcp": 1,
         "vnet": 1
     },
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
