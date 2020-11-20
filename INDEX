@@ -6,7 +6,7 @@
     "name": "InfluxDB",
     "official": false,
     "primary_pkg": "influxdb"
-  }
+  },
   "grafana": {
     "MANIFEST": "grafana.json",
     "description": "Grafana + Influxdb in a Jail",
