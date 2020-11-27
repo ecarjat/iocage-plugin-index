@@ -12,7 +12,8 @@
         "timescaledb",
         "postgis30",
         "go",
-        "git"
+        "git",
+        "rust"
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
     "fingerprints": {
