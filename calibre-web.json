@@ -10,10 +10,10 @@
         "python",
         "py37-pip",
         "sqlite3",
-        "py37-sqlite3",
+        "py37-sqlite3"
     ],
     "properties": {
-        "vnet": 1,
+        "vnet": 1
     },
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
     "fingerprints": {
