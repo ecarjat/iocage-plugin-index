@@ -13,6 +13,7 @@
         "postgis30",
         "go",
         "git",
+        "gmake",
         "rust"
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
